@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: c4eaf403d7326b94a9e26776081927f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1797
+        width: 554
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f349ebce4c4a24e8fd345c6e16fc20
+      internalID: 606784862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1797
+        width: 554
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a08aaae9d63e46b666d044a128c6c
+      internalID: -339376517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1797
+        width: 554
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499be5ce94a27024db83068863272b16
+      internalID: 1401688434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1527
+        width: 554
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323266de28226ef489283be761bd6081
+      internalID: 2005184467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1523
+        width: 555
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5517865ea5a75154aa41a9524c7bf3b3
+      internalID: -1373452891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_5
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1527
+        width: 554
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e5afb018539374bb95a3a2d690e173
+      internalID: -189039557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1231
+        width: 554
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69eebb0d60e4c24b94c7feea35da352
+      internalID: 561664962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1231
+        width: 555
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7efd208a33e00944bdf57fc1379941b
+      internalID: 1954497821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_8
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1236
+        width: 554
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91153674c641ef49a4401d528826a3f
+      internalID: 573011529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 959
+        width: 554
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6104d8ffc1a0b434e9153038d4f53b2d
+      internalID: -17874439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 957
+        width: 554
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a68ea67a606594987c3d134d30da72
+      internalID: -642441344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_11
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 954
+        width: 555
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7727ed7401940448e90ed482cbfc18
+      internalID: -1395841941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 699
+        width: 254
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b3004afe4d2ba4e95196a578905e65
+      internalID: 1097857435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 699
+        width: 253
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47e4e47d6b90e47bd28c4005d96be9
+      internalID: 1120119482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 699
+        width: 253
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe30c7523a3452d499a5d7de3c87a0f3
+      internalID: -1607701114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_15
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 695
+        width: 253
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c857fdc1851d6e549aec17c080c9b686
+      internalID: -126928719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_16
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 698
+        width: 254
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02918ce964da8384b9a5d897bef01658
+      internalID: -105064230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_17
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 698
+        width: 253
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733b411f22f1944f9cd0002d0ba119f
+      internalID: -937671761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_18
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 761
+        width: 125
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b59a545d4bdcb544be195d6fad75cd7
+      internalID: 725059163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_19
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 765
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5fc9359bcecc545843292c5e57d245
+      internalID: -2074185855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_20
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 607
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5049f3716daddce4ab4e972d0b37238f
+      internalID: -1028612627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_23
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 466
+        width: 254
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5223c218ff4e5f449336111fca75298
+      internalID: 1083857226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 466
+        width: 254
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42743a3a7657384cbf9a65c21331556
+      internalID: 303886982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 463
+        width: 254
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852f8766c6b9624fadd5b11d946d5e5
+      internalID: -564452804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_26
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 464
+        width: 254
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a8d8c0b15f58c499a2854db6362eb9
+      internalID: -148525564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_27
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 466
+        width: 254
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7270b1469d49b17428db833e319f0165
+      internalID: 878987595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_28
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 466
+        width: 253
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ab5e2ea91dfa42b75db8536922a3f
+      internalID: -575090574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_35
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 450
+        width: 142
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07585693556be9943bfd586180f1d85f
+      internalID: -1864169118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 307
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 61, z: 17, w: 76}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fcc6bcd02074e4481bb0f714fdea8f
+      internalID: 1129629952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 146
+        width: 308
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 68, z: 14, w: 69}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a18431815f60d4a9b3e9c55b5e9fcf
+      internalID: -1896719463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_38
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 152
+        width: 498
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 75, z: 25, w: 76}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73c7c47113c25d48b6114b213f341b4
+      internalID: -1803981508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_39
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 148
+        width: 500
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 73, z: 24, w: 76}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674477c1ef0b2644ebb99f574ff0310a
+      internalID: -1581165486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_33
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 440
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7bdf3d86d276469f214cd61190142
+      internalID: 1486575923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_21
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 623
+        width: 114
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e99ff30212bd34085337b128f70a39
+      internalID: -622845573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 789e65907b7ed3344ae9bffd4624e6df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_0: 606784862
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_1: -339376517
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_10: -642441344
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_11: -1395841941
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_12: 1097857435
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_13: 1120119482
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_14: -1607701114
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_15: -126928719
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_16: -105064230
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_17: -937671761
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_18: 725059163
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_19: -2074185855
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_2: 1401688434
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_20: -1028612627
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_21: -622845573
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_22: 627544630
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_23: 1083857226
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_24: 303886982
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_25: -564452804
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_26: -148525564
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_27: 878987595
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_28: -575090574
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_29: -1279565231
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_3: 2005184467
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_30: 345529640
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_31: 47522110
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_32: -1940023726
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_33: 1486575923
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_34: -913014816
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_35: -1864169118
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_36: 1129629952
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_37: -1896719463
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_38: -1803981508
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_39: -1581165486
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_4: -1373452891
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_40: -1567516124
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_5: -189039557
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_6: 561664962
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_7: 1954497821
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_8: 573011529
+      NEW_VERSION_2_-_UI_Designs_for_Witch_Game_(Asteroids)_9: -17874439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
